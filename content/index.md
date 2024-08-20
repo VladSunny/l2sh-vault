@@ -8,10 +8,4 @@ title: Добро пожаловать!
 
 **По всем вопросам: [@VladG00dman](https://t.me/VladG00dman)**
 
-# Существующие репозитории за 9 класс
-- [Геометрия](geometry.md)
-- [Физика](physics.md)
-- [Астрономия](astronomy.md)
-- [Биология](biology.md)
-- [История](history.md)
-- [Химия](chemistry.md)
+[Материалы за 9 класс](9-grade/home.md)

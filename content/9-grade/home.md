@@ -13,6 +13,9 @@ tags:
 - [Биология](9-grade/biology/home.md)
 - [Геометрия](9-grade/geometry/home.md)
 - [История](9-grade/history/home.md)
+- [Информатика](9-grade/it/home.md)
 - [Физика](9-grade/physics/home.md)
 - [Спецмат](9-grade/specmath/home.md)
 - [ВТЭК](9-grade/vtek/home.md)
+
+Возможно в будущем что-то может быть добавлено, а некоторое удалено.

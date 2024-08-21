@@ -2,6 +2,8 @@
 title: 9 класс
 draft: false
 tags:
+  - home
+  - 9-grade
 ---
 
 # Материалы по предметам за 9 класс

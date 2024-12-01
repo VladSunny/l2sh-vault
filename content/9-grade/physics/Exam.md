@@ -153,4 +153,15 @@ tags:
 
 ---
 
-## **- **
+## **- Графики зависимости $a_x(t)$ и $v_x(t)$ при РУД.**
+> ![[Pasted image 20241201185026.png]]
+
+## **- Графики зависимости перемещения $s_x$, координаты x и пройденного пути l от времени при РУД.**
+[статья](https://www.yaklass.ru/p/fizika/9-klass/mekhanicheskie-iavleniia-osnovy-kinematiki-12594/grafiki-zavisimosti-velichin-ot-vremeni-pri-ravnouskorennom-dvizhenii-330100/re-9f0e58ed-692d-447f-a5cb-a1ee24404451)
+
+---
+
+## **- Формула для перемещения без времени при РУД (вывод!)**
+> ![[Pasted image 20241201184345.png]]
+
+---
